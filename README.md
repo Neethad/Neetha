@@ -55,7 +55,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Neetha/Neetha/output/github-contribution-grid-snake-dark.svg"
+    src="https://github.com/Neethad/Neetha/blob/300873ecc090e53d6b36ae47cc2d16b11a033878/github-contribution-grid-snake-dark.svg"
     alt="GitHub contribution snake animation"
   />
 </p>
